@@ -22,6 +22,7 @@ public class Sequencia {
 			while (valor1 >= valor2) {
 				System.out.println(valor1);
 				valor1--;
+				tec.close();
 			}
 		}
 	}

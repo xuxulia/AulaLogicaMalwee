@@ -14,7 +14,7 @@ public class AtividadeTabuadaLacoDeRepeticao {
 		while(multiplicador <= 10) {
 			System.out.println(multiplicador + " x " + num + " = " + num * multiplicador);
 			multiplicador++;
-		
+			tec.close();
 		}	
 		
 		

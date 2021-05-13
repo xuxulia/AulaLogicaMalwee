@@ -41,6 +41,7 @@ public class ParEImpar {
 		}
 		System.out.println("A quantidade de números pares são: " + par);
 		System.out.println("A quantidade de números impares são: " + impar);
+		tec.close();
 
 	}
 
